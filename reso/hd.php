@@ -111,13 +111,13 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">S</span>
-    <span class="loading-text-words">N</span>
-    <span class="loading-text-words">E</span>
-    <span class="loading-text-words">H</span>
+    <span class="loading-text-words">W</span>
+    <span class="loading-text-words">O</span>
+    <span class="loading-text-words">L</span>
+    <span class="loading-text-words">F</span>
     <span class="loading-text-words">-</span>
-    <span class="loading-text-words">K</span>
-    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">V</span>
 </div>
 </div>
 
