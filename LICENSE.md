@@ -1,5 +1,5 @@
 ```py
-Copyright (c) 2021 Techie Sneh
+Copyright (c) 2021 Wolfmasternas
 ```
 <b>
 - DO NOT REMOVE CREDITS<br>
